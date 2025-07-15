@@ -5,4 +5,4 @@ function sumar(a, b){
     return(a+b)
 }
 
-sumar(1,1)
+console.log(sumar(90,90*90))
