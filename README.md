@@ -3,5 +3,4 @@
 3. ### MARKDOWN
 * markdown *
 * MARKDOWN
-
 `git init`
