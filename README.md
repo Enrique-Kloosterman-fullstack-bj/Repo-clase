@@ -1,3 +1,1 @@
-> # MARKDOWN
-## MA**R**KDOWN
- `### *MARKDOWN* `
+# MARKDOWN
