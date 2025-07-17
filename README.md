@@ -6,5 +6,5 @@
 * 
 `git init`
 
-  [titulo]
-  (https://urlaalgo.com)
+  titulo
+  https://urlaalgo.com
